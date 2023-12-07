@@ -1,5 +1,5 @@
 # Chicopee Fights
-Enjoy these leaks
+Enjoy
 # Latest Fight
 https://devilwashere.github.io/src/Fights/schoolfightz101.MOV
 
