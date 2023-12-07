@@ -4,4 +4,4 @@ Enjoy
 https://devilwashere.github.io/src/Fights/schoolfightz101.MOV
 
 
-![image](https://github.com/DevilWasHere/DevilWasHere.github.io/assets/151879540/eddb3ec9-efc8-4aaf-bc3d-d0e1060424b2)
+![image](https://github.com/DevilWasHere/DevilWasHere.github.io/assets/151879540/e40cb540-454f-442b-8e9e-bdbbab37dfaa)
