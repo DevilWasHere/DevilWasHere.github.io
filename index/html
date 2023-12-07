@@ -1,8 +1,0 @@
-<!DOCTYPE html> 
-<html> 
-<body> 
-<video width="100%" controls>
-  <source src="" type="video/mp4">
-</video>
-</body> 
-</html>
