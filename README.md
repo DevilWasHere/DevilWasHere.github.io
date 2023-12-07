@@ -1,7 +1,7 @@
 # Chicopee Fights
 Enjoy
 # Latest Link to Fight 12/5/23
-https://devilwashere.github.io/src/Fights/schoolfightz101.MOV
+[https://devilwashere.github.io/src/Fights/schoolfightz101.MOV](https://devilwashere.github.io/index.html)
 
 
 ![image](https://github.com/DevilWasHere/DevilWasHere.github.io/assets/151879540/e40cb540-454f-442b-8e9e-bdbbab37dfaa)
