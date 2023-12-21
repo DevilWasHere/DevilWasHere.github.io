@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Download Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+			  background-image: url("https://devilwashere.github.io/IMG_0992.jpeg");
+        }
+
+        #downloadButton {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to the Download Page</h1>
+    <p>Click the button below to download your file:</p>
+    
+    <button id="downloadButton" onclick="downloadFile()">Download File</button>
+
+    <script>
+        function downloadFile() {
+            // Replace 'your_file_url' with the actual URL of your file
+            window.location.href = 'your_file_url';
+        }
+    </script>
+</body>
+</html>
