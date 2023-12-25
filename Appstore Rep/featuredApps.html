@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header, footer {
+            background-color: #fff;
+            color: #0070c9;
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+
+        main {
+            flex-grow: 1;
+            padding: 20px;
+        }
+
+        .welcome {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .welcome h2 {
+            margin-bottom: 10px;
+        }
+
+        .featured-apps {
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        .app-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .app-item img {
+            max-width: 60px;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        .app-info {
+            flex-grow: 1;
+            margin-left: 15px;
+        }
+
+        .download-button {
+            background-color: #0070c9;
+            color: #fff;
+            padding: 8px 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+        }
+
+        footer {
+            margin-top: auto;
+        }
+    </style>
+    <title>Home Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Featured Apps</h1>
+    </header>
+
+    <main>
+        <div class="welcome">
+            <h2>Our Very Best Apps</h2>
+            <p>Enjoy and download amazing new apps just for you!</p>
+        </div>
+
+        <div class="featured-apps">
+            <h2>Featured Apps</h2>
+            <ul>
+                <li class="app-item">
+                    <img src="Icon.webp" alt="App 1 Icon">
+                    <div class="app-info">
+                        <h3>DevilPie</h3>
+                        <p>My first App.</p>
+                        <a href="App.html" class="download-button">See More</a>
+                    </div>
+                </li>
+                <li class="app-item">
+                    <img src="path/to/app2-icon.png" alt="App 2 Icon">
+                    <div class="app-info">
+                        <h3>Blank App</h3>
+                        <p>Description of App 2.</p>
+                        <a href="path/to/app2-page.html" class="download-button">Download Now</a>
+                    </div>
+                </li>
+                <!-- Add more app items as needed -->
+            </ul>
+        </div>
+
+        <!-- Add more sections or content as needed -->
+
+    </main>
+
+    <footer>
+        <p>&copy; 2023 DevilWasHere</p>
+    </footer>
+
+</body>
+</html>
